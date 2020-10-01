@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App matches snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`AppHeader Page matches snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`Loading Page matches snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`Locations Page matches snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`LoginButton Page matches snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`LoginForm Page matches snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`Navigation Page matches snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`ProfilePage Page matches snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`RegistrationForm Page matches snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`SearchBar Page matches snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`Settings Page matches snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`Users Page matches snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`VehicleType Page matches snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`Vehicles Page matches snapshot 1`] = `ShallowWrapper {}`;
